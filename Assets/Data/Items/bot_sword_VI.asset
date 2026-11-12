@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6d047b56ea46248e118fd96584cc59, type: 3}
+  m_Name: bot_sword_VI
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.ItemDefinition
+  itemId: bot_sword_VI
+  displayName: "Ki\u1EBFm VI"
+  description: "V\u0169 kh\xED Melee b\u1EADc VI."
+  icon: {fileID: 21300000, guid: c40f51b97af162d45899e321cf5b9ab9, type: 3}
+  itemType: 1
+  tier: 6
+  sellValue: 236
+  buyPrice: 590
+  backpackCapacity: 10
+  isStackable: 0
+  maxStackSize: 1
+  maxStack: 1
+  allowedInSafeSlots: 0
+  baseMaxDurability: 90
+  droneWorldSprite: {fileID: 0}
+  droneFollowerPrefab: {fileID: 0}
+  weaponDefinition: {fileID: 11400000, guid: 3f6369294d28cfc428e8d88dcb16718d, type: 2}

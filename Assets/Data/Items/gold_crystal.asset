@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6d047b56ea46248e118fd96584cc59, type: 3}
+  m_Name: gold_crystal
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.ItemDefinition
+  itemId: gold_crystal
+  displayName: "Tinh th\u1EC3 v\xE0ng"
+  description: "Tinh th\u1EC3 hi\u1EBFm c\xF3 gi\xE1 tr\u1ECB cao."
+  icon: {fileID: 21300000, guid: e6e6bf36f521d6b4c959ac8f74a33993, type: 3}
+  itemType: 0
+  tier: 5
+  sellValue: 3500
+  buyPrice: 5250
+  backpackCapacity: 10
+  isStackable: 0
+  maxStackSize: 1
+  maxStack: 10
+  allowedInSafeSlots: 1

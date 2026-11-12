@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e5113e4504231a62fc2055a9ca1f2, type: 3}
+  m_Name: WoodenBoxLootTable
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.LootTableDefinition
+  entries:
+  - item: {fileID: 11400000, guid: 0b81d2b3e9f7fe44aa57db97834d66d6, type: 2}
+    weight: 35
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: ae12fbe1aba69c841954d33035b4eb72, type: 2}
+    weight: 35
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: ba888f48d036eb14da64e989497f7d59, type: 2}
+    weight: 15
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 9990a2ab1bdf2a44b810a0f94bb488bf, type: 2}
+    weight: 15
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 8eba771d734f71e4788feec5b098cad0, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 42a8f902ffd9ee34088ed8439d421123, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 73d2e06c90c51b943aa10ab93ba61dbf, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: f9936deb9f72acb4b9a5b919596a287b, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 19d6ae4e6a4d74c4193c6d049b43c716, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: aadb0e1bc9ffffc45900ad03f42c31a4, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 3d3573613a7476c42a5d71862d1f0574, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: d0dfc8eb2f30ccf489b47bc1a583fb3a, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 4
+  - item: {fileID: 11400000, guid: 56e734b79074666469c0a94d65a01d21, type: 2}
+    weight: 2
+    minimumQuantity: 2
+    maximumQuantity: 6
+  - item: {fileID: 11400000, guid: 9e056d6743e63a7439edd27a1bd5b902, type: 2}
+    weight: 1.5
+    minimumQuantity: 2
+    maximumQuantity: 6
+  minimumDrops: 1
+  maximumDrops: 2

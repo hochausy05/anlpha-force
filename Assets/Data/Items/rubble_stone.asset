@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6d047b56ea46248e118fd96584cc59, type: 3}
+  m_Name: rubble_stone
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.ItemDefinition
+  itemId: rubble_stone
+  displayName: "\u0110\xE1 v\u1EE5n"
+  description: "\u0110\xE1 th\xF4 nh\u1EB7t \u0111\u01B0\u1EE3c t\u1EEB t\xE0n t\xEDch."
+  icon: {fileID: 21300000, guid: c3433143fac6b8e4bbed506d2a31a93c, type: 3}
+  itemType: 6
+  tier: 1
+  sellValue: 30
+  buyPrice: 45
+  backpackCapacity: 10
+  isStackable: 0
+  maxStackSize: 1
+  maxStack: 20
+  allowedInSafeSlots: 1

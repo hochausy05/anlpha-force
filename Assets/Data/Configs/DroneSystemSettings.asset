@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66a2e7c251c345cda10a6274b2a47e01, type: 3}
+  m_Name: DroneSystemSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Combat.DroneSystemSettings
+  followSmoothTime: 0.18
+  followBobAmplitude: 0.08
+  followBobFrequency: 1.8
+  followOffset: {x: 0.8, y: 0.6}
+  repairKitRestoreFraction: 0.5
+  wearAboveSeventyPercent: 0.04
+  wearAboveThirtyFivePercent: 0.08
+  wearBelowThirtyFivePercent: 0.15
+  minimumMaxDurabilityFraction: 0.2
+  baseRepairCostPerDurability: 0.8
+  repairCostPerTier: 0.35
+  repairKit: {fileID: 11400000, guid: 66603946076f4224e9526553d1b40db4, type: 2}

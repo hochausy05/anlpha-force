@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6d047b56ea46248e118fd96584cc59, type: 3}
+  m_Name: pistol_IV
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.ItemDefinition
+  itemId: pistol_IV
+  displayName: "S\xFAng l\u1EE5c IV"
+  description: "V\u0169 kh\xED Pistol b\u1EADc IV."
+  icon: {fileID: 21300000, guid: 2aa6b3e2d8997b948ad1a96f13c230c7, type: 3}
+  itemType: 1
+  tier: 4
+  sellValue: 164
+  buyPrice: 410
+  backpackCapacity: 10
+  isStackable: 0
+  maxStackSize: 1
+  maxStack: 1
+  allowedInSafeSlots: 0
+  baseMaxDurability: 90
+  droneWorldSprite: {fileID: 0}
+  droneFollowerPrefab: {fileID: 0}
+  weaponDefinition: {fileID: 11400000, guid: 9127dfc515c6a0a41bb3b9bb0cdc4c2c, type: 2}

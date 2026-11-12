@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e5113e4504231a62fc2055a9ca1f2, type: 3}
+  m_Name: CommonChestLootTable
+  m_EditorClassIdentifier: Assembly-CSharp::Looter.Items.LootTableDefinition
+  entries:
+  - item: {fileID: 11400000, guid: 0b81d2b3e9f7fe44aa57db97834d66d6, type: 2}
+    weight: 12.5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: ae12fbe1aba69c841954d33035b4eb72, type: 2}
+    weight: 12.5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: ba888f48d036eb14da64e989497f7d59, type: 2}
+    weight: 17.5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 9990a2ab1bdf2a44b810a0f94bb488bf, type: 2}
+    weight: 17.5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 8eba771d734f71e4788feec5b098cad0, type: 2}
+    weight: 15
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 42a8f902ffd9ee34088ed8439d421123, type: 2}
+    weight: 15
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 73d2e06c90c51b943aa10ab93ba61dbf, type: 2}
+    weight: 5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: f9936deb9f72acb4b9a5b919596a287b, type: 2}
+    weight: 5
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 19d6ae4e6a4d74c4193c6d049b43c716, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: aadb0e1bc9ffffc45900ad03f42c31a4, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 3d3573613a7476c42a5d71862d1f0574, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: d0dfc8eb2f30ccf489b47bc1a583fb3a, type: 2}
+    weight: 0
+    minimumQuantity: 1
+    maximumQuantity: 5
+  - item: {fileID: 11400000, guid: 56e734b79074666469c0a94d65a01d21, type: 2}
+    weight: 2
+    minimumQuantity: 2
+    maximumQuantity: 6
+  - item: {fileID: 11400000, guid: 9e056d6743e63a7439edd27a1bd5b902, type: 2}
+    weight: 1.5
+    minimumQuantity: 2
+    maximumQuantity: 6
+  - item: {fileID: 11400000, guid: 796b4641929afc4448577d83a3e9806c, type: 2}
+    weight: 0.7
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: 30cdefcebf6f9a945a250578c23d0dca, type: 2}
+    weight: 0.7
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: 826f2685ce030ca45a6d86379435f1fa, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: e19d69929eb46ee4381d14ee365b5343, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: eb724e34310ff8b4cbc4eccf9f766270, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: 612070be926b4f441aeeca7177fca023, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: d913cb4375a54b84c9184cb22e4c1190, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: a2b145e30cdba3948a914850ff01ef7c, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: f1140e74ad46f6c4fb9db5f23f6e16aa, type: 2}
+    weight: 0.7
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: 82005cf3c39499342894604559ce791c, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: afe7f69b04b56114b89ca5f0cfff320b, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: f4ec86a8f4ccc49448060fcd89c8e70f, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: 9de272883fd2f2049b657116fe4635c1, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: ce107a05dc84fbc49ae77de00cf690ae, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: fc4efd25bdc2642469a62ab95a857f2c, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  - item: {fileID: 11400000, guid: bab68c564a4a2c349ac8ddadc6a8a42d, type: 2}
+    weight: 0.2
+    minimumQuantity: 1
+    maximumQuantity: 1
+  minimumDrops: 2
+  maximumDrops: 3

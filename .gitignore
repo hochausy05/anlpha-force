@@ -1,0 +1,47 @@
+# Unity generated folders (do not commit)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE / local environment
+.vs/
+.vscode/
+.idea/
+.gradle/
+.consulo/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.tmp
+*.swp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Local Unity / build artifacts
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Private project planning / AI instructions (keep on local machine)
+/AGENTS.md
+/PLAN.md
+/TASKS.md
+/TASK.md
+/changelog.md
